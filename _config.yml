@@ -14,37 +14,37 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: kongnews # the main title
+title: seoulnews # the main title
 
 tagline: 실시간 뉴스를 보다 신속하게 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  실시간 뉴스를 보다 신속하게 제공하는 kongnews 입니다.
+  실시간 뉴스를 보다 신속하게 제공하는 seoulnews 입니다.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://kongnews.github.io"
+url: "https://seoulnews.github.io"
 
 github:
-  username: kongnews # change to your github username
+  username: seoulnews # change to your github username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: kongnews
+  name: seoulnews
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/kongnews # change to your github homepage
+    - https://github.com/seoulnews # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:
-  google: RT4FOPl7CNID3pM2iEXmIKyZc3U4lHeFWGyU4z2K4Ho # fill in your Google verification code
-  bing: 2C3F5072584E0411EF191F96D19B6BD8 # fill in your Bing verification code
+  google:  # fill in your Google verification code
+  bing:  # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
   baidu: # fill in your Baidu verification code
