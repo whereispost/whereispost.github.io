@@ -1,8 +1,8 @@
 
 
 {
-  "name": "navernews",
-  "short_name": "navernews",
+  "name": "whereispost",
+  "short_name": "whereispost",
   "description": "A minimal, responsive and feature-rich Jekyll theme for technical writing.",
   "icons": [
     {
