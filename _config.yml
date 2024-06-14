@@ -14,29 +14,29 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: seoulnews # the main title
+title: navernews # the main title
 
 tagline: 실시간 뉴스를 보다 신속하게 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  실시간 뉴스를 보다 신속하게 제공하는 seoulnews 입니다.
+  실시간 뉴스를 보다 신속하게 제공하는 navernews 입니다.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://seoulnews.github.io"
+url: "https://navernews.github.io"
 
 github:
-  username: seoulnews # change to your github username
+  username: navernews # change to your github username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: seoulnews
+  name: navernews
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/seoulnews # change to your github homepage
+    - https://github.com/navernews # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username

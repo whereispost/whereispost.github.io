@@ -1,8 +1,8 @@
 
 
 {
-  "name": "seoulnews",
-  "short_name": "seoulnews",
+  "name": "navernews",
+  "short_name": "navernews",
   "description": "A minimal, responsive and feature-rich Jekyll theme for technical writing.",
   "icons": [
     {
